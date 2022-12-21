@@ -1,0 +1,16 @@
+               CASH RECEIPT
+           Supermarket Galactic
+Belarus, Minsk, Bogdanovicha street, 29
+           Tel: +375299452781
+Cashier:H123h42			Date: 21/12/2022
+                       	Time: 21:43:08
+-----------------------------------------------------
+QTY     Description           Price           Total
+ 10       Ice-Cream           $2.35           $23.5
+  1        Sneakers           $1.25           $1.25
+ 10          Cheese            $4.1           $36.9
+  1         Chicken            $8.0            $8.0
+=====================================================
+TAXABLE TOT.								$57,81
+VAT17%										$11,84
+TOTAL:										$69.65
